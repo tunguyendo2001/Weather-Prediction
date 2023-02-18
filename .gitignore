@@ -1,0 +1,5 @@
+.DS_Store
+Web-UI/node_modules
+data
+logs
+ds-logstash-config
